@@ -1,0 +1,11 @@
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.exe
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.deps.json
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.runtimeconfig.json
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.runtimeconfig.dev.json
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.dll
+C:\Users\NickB\source\repos\15012020_graph\bin\Debug\netcoreapp3.1\15012020_graph.pdb
+C:\Users\NickB\source\repos\15012020_graph\obj\Debug\netcoreapp3.1\15012020_graph.csprojAssemblyReference.cache
+C:\Users\NickB\source\repos\15012020_graph\obj\Debug\netcoreapp3.1\15012020_graph.AssemblyInfoInputs.cache
+C:\Users\NickB\source\repos\15012020_graph\obj\Debug\netcoreapp3.1\15012020_graph.AssemblyInfo.cs
+C:\Users\NickB\source\repos\15012020_graph\obj\Debug\netcoreapp3.1\15012020_graph.dll
+C:\Users\NickB\source\repos\15012020_graph\obj\Debug\netcoreapp3.1\15012020_graph.pdb
